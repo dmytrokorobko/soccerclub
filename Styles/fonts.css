@@ -1,0 +1,22 @@
+/* #228B22 - green
+#002D00 - dark-green
+#F6EDD9 - light light  */
+
+/* "Quicksand", sans-serif; - top captions
+"Old Standard TT", serif; - captions
+"Hind Madurai", sans-serif; - regular text */
+
+@font-face {
+   font-family: "Quicksand";
+   src: url('../Fonts/Quicksand-Regular.ttf');
+}
+
+@font-face {
+   font-family: "Old Standard TT";
+   src: url("../Fonts/OldStandardTT-Regular.ttf");
+}
+
+@font-face {
+   font-family: "Hind Madurai";
+   src: url("../Fonts/HindMadurai-Regular.ttf");
+}
